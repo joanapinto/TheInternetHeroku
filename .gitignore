@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+.eslintrc.json
+.DS_Store
+.prettierrc
+tests-examples/
+package-lock.json
